@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/meomius/JavaSweeperRepo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/meomius/JavaSweeperRepo1111.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\JP" />
+    <option name="cloneParentDir" value="C:\Users\egor_\IdeaProjects" />
   </component>
 </application>
